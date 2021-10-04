@@ -2,9 +2,14 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("org-capture-last-stored"
+(("org-refile-last-stored"
+ (filename . "~/org/notes/todo.org")
+ (front-context-string . "* TODO 解决csharp-")
+ (rear-context-string . "sage结构体全部改成静态生成\n")
+ (position . 51))
+("org-capture-last-stored"
  (filename . "~/org/notes/refile.org")
- (front-context-string . "* rtt&嵌入式 变量地址突变")
- (rear-context-string . "ETAGS: :REFILE:\n")
- (position . 22))
+ (front-context-string . "* TODO 解决csharp-")
+ (rear-context-string . "量，这样变量将存放在ROM区域\n")
+ (position . 226))
 )

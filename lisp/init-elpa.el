@@ -52,7 +52,9 @@
 ;; Please add the package name into `melpa-include-packages'
 ;; if it's not visible after  `list-packages'.
 (defvar melpa-include-packages
-  '(ace-window ; latest stable is released on year 2014
+  '(
+    dap-mode
+    ace-window ; latest stable is released on year 2014
     ace-pinyin
     pos-tip
     web-mode

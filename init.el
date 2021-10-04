@@ -180,4 +180,3 @@
 ;;; End:
 (put 'erase-buffer 'disabled nil)
 
-(load-theme 'zenburn t)
