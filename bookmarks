@@ -2,11 +2,21 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("org-refile-last-stored"
- (filename . "~/org/notes/todo.org")
- (front-context-string . "* TODO 解决csharp-")
- (rear-context-string . "sage结构体全部改成静态生成\n")
- (position . 51))
+(("kettle port communication"
+ (filename . "/mnt/d/programs/temperaturePrj/kettle/prj/即热水壶CADT最新---9-25/Form_Communication/PortCommunication.cs")
+ (front-context-string . "                ")
+ (rear-context-string . "1_Duty % 256;\n\n ")
+ (position . 198444))
+("oven port communication"
+ (filename . "/mnt/d/programs/temperaturePrj/self-determain oven/prj/V1.6针对慢热烘焙/Form_Communication/PortCommunication.cs")
+ (front-context-string . "int alg_output_1")
+ (rear-context-string . "                ")
+ (position . 191370))
+("org-refile-last-stored"
+ (filename . "/mnt/d/myfile/capture/todo.org")
+ (front-context-string . "** TODO 解决csharp")
+ (rear-context-string . "0-03 Sun 22:59]\n")
+ (position . 1875))
 ("org-capture-last-stored"
  (filename . "~/org/notes/refile.org")
  (front-context-string . "* TODO 解决csharp-")
