@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="1.0">
+	<head>
+		<title>Feeds of yukuliwude from eaf-rss-reader</title>
+	</head>
+	<body>
+		<outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" />
+	</body>
+</opml>

@@ -53,7 +53,7 @@
 ;; if it's not visible after  `list-packages'.
 (defvar melpa-include-packages
   '(
-    dap-mode
+    qt-pro-mode
     ace-window ; latest stable is released on year 2014
     ace-pinyin
     pos-tip

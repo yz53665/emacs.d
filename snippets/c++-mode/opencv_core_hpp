@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name:opencv_core_hpp 
+# key: cvcore
+# --
+#include <opencv2/core.hpp>
+$0

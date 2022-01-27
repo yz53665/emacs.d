@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: matplotlib pic config
+# key: chp
+# --
+import matplotlib
+
+matplotlib.use("qt5agg")
+
+plt.rcParams['font.sans-serif'] = ['AR PL KaitiM GB']
+plt.rcParams['axes.unicode_minus'] = False
+$0

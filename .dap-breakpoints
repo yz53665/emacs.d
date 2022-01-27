@@ -1,1 +1,1 @@
-#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("/home/yukuliwude/my-project/go-project/goroutine/goroutine.go" ((:point 301))))
+#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("/mnt/d/programs/temperaturePrj/self-determain oven/data/haier/paramParse.c" ((:point 1937))))

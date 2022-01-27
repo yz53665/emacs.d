@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name:import_data_analysis 
+# key: imdata
+# --
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+$0

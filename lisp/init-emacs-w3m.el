@@ -11,7 +11,7 @@
       w3m-terminal-coding-system 'utf-8
       w3m-use-cookies t
       w3m-cookie-accept-bad-cookies t
-      w3m-home-page "https://www.google.com.au"
+      w3m-home-page "https://www.google.com"
       w3m-command-arguments       '("-F" "-cookie")
       w3m-mailto-url-function     'compose-mail
       browse-url-browser-function 'w3m
@@ -40,9 +40,9 @@
 
 ;; C-u S g RET <search term> RET in w3m
 (setq w3m-search-engine-alist
-      '(("g" "https://www.google.com.au/search?q=%s" utf-8)
+      '(("g" "https://www.google.com/search?q=%s" utf-8)
         ;; stackoverflow search
-        ("q" "https://www.google.com.au/search?q=%s+site:stackoverflow.com" utf-8)
+        ("q" "https://www.google.com/search?q=%s+site:stackoverflow.com" utf-8)
         ;; wikipedia
         ("w" "https://en.wikipedia.org/wiki/Special:Search?search=%s" utf-8)
         ;; online dictionary
@@ -117,14 +117,14 @@
   (interactive)
   (let ((keyword (w3m-guess-keyword)))
     ;; google
-    (browse-url-generic (concat "https://www.google.com.au/search?hl=en&q=%22"
+    (browse-url-generic (concat "https://www.google.com/search?hl=en&q=%22"
                                 keyword
                                 "%22"
                                 (if buffer-file-name
 									(concat "+filetype%3A" (file-name-extension buffer-file-name))
 									"")))
     ;; stackoverflow.com
-    (browse-url-generic (concat "https://www.google.com.au/search?hl=en&q="
+    (browse-url-generic (concat "https://www.google.com/search?hl=en&q="
                                 keyword
                                 "+site:stackoverflow.com" ))))
 ;; }}

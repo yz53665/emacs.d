@@ -2,7 +2,11 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("kettle port communication"
+(("mf"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "https://passport.bilibili.com/login?from_spm_id=333.851.top_bar.login_window"))
+("kettle port communication"
  (filename . "/mnt/d/programs/temperaturePrj/kettle/prj/即热水壶CADT最新---9-25/Form_Communication/PortCommunication.cs")
  (front-context-string . "                ")
  (rear-context-string . "1_Duty % 256;\n\n ")
@@ -13,13 +17,13 @@
  (rear-context-string . "                ")
  (position . 191370))
 ("org-refile-last-stored"
- (filename . "/mnt/d/myfile/capture/todo.org")
- (front-context-string . "** TODO 解决csharp")
- (rear-context-string . "0-03 Sun 22:59]\n")
- (position . 1875))
+ (filename . "/mnt/d/myfile/capture/gong.org")
+ (front-context-string . "** 重要的是构造算法和系统的过")
+ (rear-context-string . "数整定思路也要进行调整.\n  \n")
+ (position . 19583))
 ("org-capture-last-stored"
- (filename . "~/org/notes/refile.org")
- (front-context-string . "* TODO 解决csharp-")
- (rear-context-string . "量，这样变量将存放在ROM区域\n")
- (position . 226))
+ (filename . "~/capture/refile.org")
+ (front-context-string . "* [2022-01-08 Sa")
+ (rear-context-string . " cv;\n\n#+end_src\n")
+ (position . 3316))
 )
